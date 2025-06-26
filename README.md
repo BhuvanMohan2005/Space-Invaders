@@ -30,7 +30,7 @@ Features:
 
 > (Replace below image URL with your own screenshot from the repo)
 
-![Gameplay Screenshot](https://i.imgur.com/NlD0Z9L.png)
+![Gameplay Screenshot]([https://i.imgur.com/NlD0Z9L.png](https://github.com/BhuvanMohan2005/Space-Invaders/blob/main/screenshot.png))
 
 ---
 
