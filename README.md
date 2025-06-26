@@ -2,9 +2,6 @@
 
 Relive the retro arcade classic with a modern Python twist!  
 **Space Invaders** is a fun, fast-paced shooting game built using `pygame`, where you defend Earth from waves of alien invaders.
-
-![Space Invaders Banner](https://upload.wikimedia.org/wikipedia/en/4/4d/SpaceInvaders-Gameplay.gif)
-
 ---
 
 ## 🎮 Game Summary
