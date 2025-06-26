@@ -28,10 +28,7 @@ Features:
 
 ## 📸 Screenshot
 
-> (Replace below image URL with your own screenshot from the repo)
-
-![Gameplay Screenshot]([[https://i.imgur.com/NlD0Z9L.png](https://github.com/BhuvanMohan2005/Space-Invaders/blob/main/screenshot.png)](https://github.com/BhuvanMohan2005/Space-Invaders/blob/main/Space%20invaders%20.png))
-
+![Gameplay Screenshot](https://github.com/BhuvanMohan2005/Space-Invaders/blob/main/Space%20invaders%20.png)
 ---
 
 ## 🚀 How to Run the Game
